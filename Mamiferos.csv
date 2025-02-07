@@ -1,0 +1,9 @@
+gpo,sit,sp,ind,fecha,long,ID_Unico
+mamifero,la_sierra,odocoileus_virginianus,1,2018,125,mamiferoodocoileus_virginianus1
+mamifero,la_sierra,odocoileus_virginianus,2,2018,130,mamiferoodocoileus_virginianus2
+mamifero,la_sierra,odocoileus_virginianus,1,2019,132,mamiferoodocoileus_virginianus1
+mamifero,la_sierra,odocoileus_virginianus,2,2019,135,mamiferoodocoileus_virginianus2
+mamifero,el_vallle,puma_concolor,1,2018,140,mamiferopuma_concolor1
+mamifero,el_valle,puma_concolor,1,2019,145,mamiferopuma_concolor1
+mamifero,la_sabana,dasypus_novemcinctus,1,2018,72.3,mamiferodasypus_novemcinctus1
+mamifero,la_sabana,dasypus_novemcinctus,1,2019,73.5,mamiferodasypus_novemcinctus1
